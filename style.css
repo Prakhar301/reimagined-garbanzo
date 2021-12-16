@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.hone{
+    width:100%;
+    border-radius: 0px;
+    margin:0px;
+}
+label{
+    float: left;
+}
+.gh{
+    float: right;
+}
+.footer{
+    width: 100%;
+    line-height: 2;
+    background-color: grey;
+    border-radius: 0px;
+    bottom:0px;
+    margin: 0;
+    position: fixed;
+}
+.modal-dialog{
+    width:90%;
+}
+label{
+    font-size: x-small;
+}
